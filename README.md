@@ -10,4 +10,4 @@ I am a recent graduate if Chemical engineering, now trying to develop skills in 
 - Power BI
 
 ## My Projects 
-- [NGL Fractionation] (https://github.com/purity-portfolio/NGL-fractionation-train-simulation)
+- [NGL Fractionation](https://github.com/purity-portfolio/NGL-fractionation-train-simulation)
